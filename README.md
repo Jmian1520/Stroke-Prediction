@@ -29,11 +29,11 @@ The project follows a standard machine learning workflow:
 The performance of all three models was compared to determine the most effective approach for stroke prediction.
 
 # Technologies
--Python
--Pandas
--NumPy
--Scikit-learn
--XGBoost
--Matplotlib
--Seaborn
--Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
