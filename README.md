@@ -3,7 +3,7 @@
 This project develops and compares multiple machine learning models to predict the likelihood of stroke occurrence based on patient demographic and health-related factors.
 This project includes 5 main objectives:
 - Objective 1: Identify Key Risk Factors
-      To identify and analyse which features in the dataset make the most contribution to stroke risk.
+- - To identify and analyse which features in the dataset make the most contribution to stroke risk.
 - Objective 2: Predict Stroke Risk
     To build a predictive model which can classify individuals as “stroke” or “no stroke” based on 
 their attributes
