@@ -8,7 +8,7 @@ This project includes 5 main objectives:
   - To build a predictive model which can classify individuals as “stroke” or “no stroke” based on 
 their attributes
 - Objective 3: Evaluate and Compare Models
- - To compare performance and interpretability by applying at least two machine learning models.
+  - To compare performance and interpretability by applying at least two machine learning models.
 - Objective 4: Visualize Risk Patterns
   - To show how stroke risk varies across demographic and lifestyle groups by visualisation.
 - Objective 5: Handle Imbalance Class
